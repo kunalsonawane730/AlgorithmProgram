@@ -22,5 +22,8 @@ using AlgorithmPrograms;
 //InsertionSort insertion = new InsertionSort();
 //insertion.InsertionSorting();
 
-PrimeNumber prime = new PrimeNumber();
-prime.PrimeNumbers();
+//PrimeNumber prime = new PrimeNumber();
+//prime.PrimeNumbers();
+
+AnAnagramDetection anagram = new AnAnagramDetection();
+anagram.AnagramDetection();
