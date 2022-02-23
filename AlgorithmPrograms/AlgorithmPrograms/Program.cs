@@ -19,5 +19,8 @@ using AlgorithmPrograms;
 //    Console.Write(arrPass[i] + " ");
 //}
 
-InsertionSort insertion = new InsertionSort();
-insertion.InsertionSorting();
+//InsertionSort insertion = new InsertionSort();
+//insertion.InsertionSorting();
+
+PrimeNumber prime = new PrimeNumber();
+prime.PrimeNumbers();
